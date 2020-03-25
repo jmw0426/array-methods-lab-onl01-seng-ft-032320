@@ -18,7 +18,7 @@ end
 
 def using_first(array)
 
-array
+array.first
 
 end
 
